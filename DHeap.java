@@ -2,8 +2,6 @@
  * D-Heap
  */
 
-//גיא וולדמן (guywaldman1) - 305218877
-//יובל שטראוסברג (straussberg) - 204594212
 
 public class DHeap
 {
